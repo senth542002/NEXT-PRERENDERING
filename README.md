@@ -1,3 +1,6 @@
+## NEXT-PRE-RENDERING
+https://www.youtube.com/watch?v=keP1PygtJ8c&list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH&index=16
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
